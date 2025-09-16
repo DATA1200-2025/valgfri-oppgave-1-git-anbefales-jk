@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <title>Om oss</title>
+</head>
+<body>
+    <h1>Om oss</h1>
+    
+    <h2>Jasmina Karic</h2>
+    <p>Jeg heter Jasmina, og jeg er student på første år ved OsloMet universitet. Jeg kommer fra Bosnia.</p>
+    
+    <h2>Kathryn Chan Sortland</h2>
+    <p>Jeg heter Kathryn, og jeg er førsteårsstudent ved OsloMet. Jeg kommer fra Hongkong.</p>
+</body>
+</html>
